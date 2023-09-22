@@ -1,7 +1,7 @@
 name: hot_reload_runner
-description: A convenient class for using hotreloader in a command line dart app.
+description: A convenient class for using hotreloader to trigger hot reload in a command line dart app.
 version: 0.0.1
-# repository: https://github.com/my_org/my_repo
+repository: https://github.com/louiskhchan/hot_reload_runner
 
 environment:
   sdk: ^3.1.2
