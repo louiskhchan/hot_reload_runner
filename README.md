@@ -27,4 +27,4 @@ I'll write a better README.md later but this is a toolkit that relies on the hot
 
 ## Additional information
 
-Thank you for using LineDotDot.
+Thank you for using HotReloadRunner.
