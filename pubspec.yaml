@@ -9,7 +9,7 @@ environment:
 # Add regular dependencies here.
 dependencies:
   hotreloader: ^4.0.0
-  line_dot_dot: ^0.0.1
+  line_dot_dot: ^0.1.0
   # path: ^1.8.0
 
 dev_dependencies:
