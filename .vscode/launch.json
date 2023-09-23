@@ -7,6 +7,11 @@
 		{
 			"name": "hot_reload_runner",
 			"request": "launch",
+			"console": "terminal",
+			"vmAdditionalArgs": [
+				"--enable-vm-service"
+			],
+			"program": "example/hot_reload_runner_example.dart",
 			"type": "dart"
 		}
 	]
